@@ -1,0 +1,87 @@
+nitial commit
+
+# Conflicts:
+#	README.md
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Shefin Sajimon <shefin.inmca2126@saintgits.org>
+#
+# interactive rebase in progress; onto 293b094
+# Last command done (1 command done):
+#    pick af02eaa # Initial commit
+# No commands remaining.
+# You are currently rebasing branch 'main' on '293b094'.
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	modified:   README.md
+#	new file:   SYSTEM_DESIGN_DOCUMENT.md
+#	new file:   backend/.env.example
+#	new file:   backend/.gitignore
+#	new file:   backend/ecosystem.config.cjs
+#	new file:   backend/eng.traineddata
+#	new file:   backend/package-lock.json
+#	new file:   backend/package.json
+#	new file:   backend/run_migration.js
+#	new file:   backend/src/config/database.js
+#	new file:   backend/src/database/migrate.js
+#	new file:   backend/src/database/migrations/001_add_distribution_config.sql
+#	new file:   backend/src/database/migrations/add_marks_feedback.sql
+#	new file:   backend/src/database/schema.sql
+#	new file:   backend/src/index.js
+#	new file:   backend/src/middleware/auth.js
+#	new file:   backend/src/middleware/rateLimit.js
+#	new file:   backend/src/routes/adminBatches.js
+#	new file:   backend/src/routes/adminUsers.js
+#	new file:   backend/src/routes/auth.js
+#	new file:   backend/src/routes/batches.js
+#	new file:   backend/src/routes/distribution.js
+#	new file:   backend/src/routes/exams.js
+#	new file:   backend/src/routes/health.js
+#	new file:   backend/src/routes/publicBatches.js
+#	new file:   backend/src/routes/questionSets.js
+#	new file:   backend/src/routes/student.js
+#	new file:   backend/src/routes/submissions.js
+#	new file:   backend/src/services/emailService.js
+#	new file:   backend/src/services/socketService.js
+#	new file:   backend/src/utils/domainCheck.js
+#	new file:   backend/uploads/.gitkeep
+#	new file:   deploy/nginx.conf.example
+#	new file:   docs/DEPLOYMENT.md
+#	new file:   docs/TESTING.md
+#	new file:   frontend/.gitignore
+#	new file:   frontend/index.html
+#	new file:   frontend/package-lock.json
+#	new file:   frontend/package.json
+#	new file:   frontend/src/App.jsx
+#	new file:   frontend/src/api/client.js
+#	new file:   frontend/src/components/Layout.jsx
+#	new file:   frontend/src/components/ProtectedRoute.jsx
+#	new file:   frontend/src/context/AuthContext.jsx
+#	new file:   frontend/src/index.css
+#	new file:   frontend/src/main.jsx
+#	new file:   frontend/src/pages/DebugAuth.jsx
+#	new file:   frontend/src/pages/HomePage.jsx
+#	new file:   frontend/src/pages/LoginPage.jsx
+#	new file:   frontend/src/pages/VerifyOtpPage.jsx
+#	new file:   frontend/src/pages/admin/AdminDashboard.jsx
+#	new file:   frontend/src/pages/admin/AdminLoginPage.jsx
+#	new file:   frontend/src/pages/student/MyQuestionsPage.jsx
+#	new file:   frontend/src/pages/student/MySubmissionsPage.jsx
+#	new file:   frontend/src/pages/student/StudentDashboard.jsx
+#	new file:   frontend/src/pages/student/StudentLayout.jsx
+#	new file:   frontend/src/pages/student/StudentLoginPage.jsx
+#	new file:   frontend/src/pages/student/StudentRegisterPage.jsx
+#	new file:   frontend/src/pages/teacher/BatchDetailPage.jsx
+#	new file:   frontend/src/pages/teacher/BatchListPage.jsx
+#	new file:   frontend/src/pages/teacher/ExamSessionDetailPage.jsx
+#	new file:   frontend/src/pages/teacher/ExamSessionsPage.jsx
+#	new file:   frontend/src/pages/teacher/LiveSubmissionsPage.jsx
+#	new file:   frontend/src/pages/teacher/TeacherLayout.jsx
+#	new file:   frontend/src/pages/teacher/TeacherLoginPage.jsx
+#	new file:   frontend/src/pages/teacher/TeacherRegisterPage.jsx
+#	new file:   frontend/vite.config.js
+#	new file:   run.bat
+#
